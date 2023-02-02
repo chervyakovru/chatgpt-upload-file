@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "gpt-example",
     "public": "public",
     "ignore": [
       "firebase.json",
