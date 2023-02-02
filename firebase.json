@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "site": "gpt-example",
-    "public": "public",
+    "site": "chatgpt-upload-file",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
